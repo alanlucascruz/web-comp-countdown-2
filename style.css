@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #020e26;
+  font-family: "Roboto";
+}
+h1 {
+  color: #ffffff;
+  font-size: 120px;
+  font-weight: 300;
+}
